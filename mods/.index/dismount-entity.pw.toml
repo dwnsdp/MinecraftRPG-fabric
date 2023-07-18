@@ -1,0 +1,14 @@
+name = "Dismount Entity"
+filename = "dismountentity-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/H7N61Wcl/versions/K14XRRBk/dismountentity-1.19.2-3.0.jar"
+hash-format = "sha512"
+hash = "5070087e828b4eac9eeeb2da92cf750ce07e746cc59a61c230910e2d826de98220eb7c98c49a1a417388f2e1b562caf9cd119f74ae180b6f87f78642893903e2"
+
+[update]
+[update.modrinth]
+mod-id = "H7N61Wcl"
+version = "K14XRRBk"

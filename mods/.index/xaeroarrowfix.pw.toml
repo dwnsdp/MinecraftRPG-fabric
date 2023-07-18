@@ -1,0 +1,14 @@
+name = "Xaero Arrow Fix"
+filename = "xaeroarrowfix-fabric-1.1+1.16.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uyEClyfU/versions/410vykjN/xaeroarrowfix-fabric-1.1%2B1.16.jar"
+hash-format = "sha512"
+hash = "98c1ec4c9999c3e2071559a62f1689e511be8c8906a035a85e6f15305a4d25af8ed2a35d13a91a31e163adeef39917eacfbf24e6808dab4900b82c762488a528"
+
+[update]
+[update.modrinth]
+mod-id = "uyEClyfU"
+version = "410vykjN"

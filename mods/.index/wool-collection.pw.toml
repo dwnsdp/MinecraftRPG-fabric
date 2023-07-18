@@ -1,0 +1,14 @@
+name = "The Wool Collection"
+filename = "woolcollection-fabric-1.19-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/T9z5w7ai/versions/AoJBFlku/woolcollection-fabric-1.19-1.0.jar"
+hash-format = "sha512"
+hash = "3a43fd91dbdb0c8af5c500ef9638898ff392eed20bb88ce6f0e6fd235578ee53f7636df80bf5fee24a6b6ebfaf7bdbec375df7ef1e093c91c93076a89850a187"
+
+[update]
+[update.modrinth]
+mod-id = "T9z5w7ai"
+version = "AoJBFlku"

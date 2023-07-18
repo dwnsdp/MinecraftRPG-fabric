@@ -1,0 +1,14 @@
+name = "TNT Breaks Bedrock"
+filename = "tntbreaksbedrock-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/eU2O6Xp1/versions/tSqI2ici/tntbreaksbedrock-1.19.2-3.0.jar"
+hash-format = "sha512"
+hash = "39d62a44e0d77a0a7a36232480576c2586a604872c828b2e32264d58c8f9265ee646482f3ce67b8b0633f6016f04cd32b9f1aee34158e83c99be73cdc1f1c2db"
+
+[update]
+[update.modrinth]
+mod-id = "eU2O6Xp1"
+version = "tSqI2ici"

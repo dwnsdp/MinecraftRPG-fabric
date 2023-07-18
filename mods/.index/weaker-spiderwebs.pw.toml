@@ -1,0 +1,14 @@
+name = "Weaker Spiderwebs"
+filename = "weakerspiderwebs-1.19.2-3.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/7L1HalIW/versions/pLP6eSa0/weakerspiderwebs-1.19.2-3.2.jar"
+hash-format = "sha512"
+hash = "b6e11851efa48c3454eded850d2f0d2292959b63a232c3f5fd69beab192ffd8abfd9d64173c69a9fe1cbc6ff46b955792352d434fbd3e98c250b50d7a85f326d"
+
+[update]
+[update.modrinth]
+mod-id = "7L1HalIW"
+version = "pLP6eSa0"

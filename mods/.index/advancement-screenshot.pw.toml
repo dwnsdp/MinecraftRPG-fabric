@@ -1,0 +1,14 @@
+name = "Advancement Screenshot"
+filename = "advancementscreenshot-1.19.2-4.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/Ug5G8jh2/advancementscreenshot-1.19.2-4.2.jar"
+hash-format = "sha512"
+hash = "6206721840905464eeaaac05ecc81d5b4f2fb9cb94ef34809f081b9a3dab0ac9cb73125b09a3dc36ce7164dfe5d4a32e1d40a229a758831e0d36469fcc9cf1e6"
+
+[update]
+[update.modrinth]
+mod-id = "lU8KbfG2"
+version = "Ug5G8jh2"

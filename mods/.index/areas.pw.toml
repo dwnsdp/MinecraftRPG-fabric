@@ -1,0 +1,14 @@
+name = "Areas"
+filename = "areas-1.19.2-5.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d71c33a1c885b40ba4abaac693266aa344788a0b"
+
+[update]
+[update.curseforge]
+file-id = 4601861
+project-id = 391701

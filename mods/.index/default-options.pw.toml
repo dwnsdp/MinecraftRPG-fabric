@@ -1,0 +1,14 @@
+name = "Default Options"
+filename = "defaultoptions-fabric-1.19-15.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/64N7yejA/defaultoptions-fabric-1.19-15.0.2.jar"
+hash-format = "sha512"
+hash = "70bd5ebd973f0f6e775a7f9ff8dab6d5fe08cf37b10bb5edef246c37252c70127363d01759c839ee8fc16fc8a36ef71043f06c53d6eba6bc4091c96ddafbf84d"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "64N7yejA"

@@ -1,0 +1,14 @@
+name = "Xaero's Minimap (Fair-Play)"
+filename = "Xaeros_Minimap_FP23.4.0_Fabric_1.19.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JkSi2Fzx/versions/vZjSJjl8/Xaeros_Minimap_FP23.4.0_Fabric_1.19.1.jar"
+hash-format = "sha512"
+hash = "79240f1e7e62b761b3f11cd78aac4864d8b95e264df41db05393a52b22c9093bd1aebf59f53545f9f062c42af178c5be285519a7ae98dc846e3d8a1d5f48eb1a"
+
+[update]
+[update.modrinth]
+mod-id = "JkSi2Fzx"
+version = "vZjSJjl8"

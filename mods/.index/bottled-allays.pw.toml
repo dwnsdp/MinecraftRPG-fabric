@@ -1,0 +1,14 @@
+name = "Bottled Allays"
+filename = "bottled_allays-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Wo8tonYh/versions/8MMdhQVS/bottled_allays-1.1.0.jar"
+hash-format = "sha512"
+hash = "8b9237e18db253f530c8419b174459ef8589fcc43e94f28d9a49964ac9d51ba3f0887cbab9181bf251144fe83ca4b1ab7e2db0ddb919927f9967d3acff580481"
+
+[update]
+[update.modrinth]
+mod-id = "Wo8tonYh"
+version = "8MMdhQVS"

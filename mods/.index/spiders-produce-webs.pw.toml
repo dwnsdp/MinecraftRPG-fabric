@@ -1,0 +1,14 @@
+name = "Spiders Produce Webs"
+filename = "spidersproducewebs-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NoznOJXq/versions/7odkTvkp/spidersproducewebs-1.19.2-3.1.jar"
+hash-format = "sha512"
+hash = "72ba2a14a8a9c208b6e472c7ec6da1c809c738431e512c6c023f4a756d51e92f7aeff3189bbdbf9f4e0734c5ffc5e821f8e1913834949141b57de69f2cfef379"
+
+[update]
+[update.modrinth]
+mod-id = "NoznOJXq"
+version = "7odkTvkp"

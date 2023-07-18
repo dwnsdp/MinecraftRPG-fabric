@@ -1,0 +1,14 @@
+name = "Zombie Proof Doors"
+filename = "zombieproofdoors-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hDKfXb0T/versions/6k3WYzpE/zombieproofdoors-1.19.2-3.0.jar"
+hash-format = "sha512"
+hash = "9b04cf3e956415ddcebe1ead0745dbadab8cdffdd9ff53c1055176dc7f51a2cdbe3bcba50e174a59108ec8f90fe1ce725a1d61a04a8f9e2d522454713b001a37"
+
+[update]
+[update.modrinth]
+mod-id = "hDKfXb0T"
+version = "6k3WYzpE"

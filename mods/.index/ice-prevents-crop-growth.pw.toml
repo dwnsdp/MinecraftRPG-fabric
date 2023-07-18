@@ -1,0 +1,14 @@
+name = "Ice Prevents Crop Growth"
+filename = "icepreventscropgrowth-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6rPhicfw/versions/dzlwCgSz/icepreventscropgrowth-1.19.2-3.0.jar"
+hash-format = "sha512"
+hash = "98f8476206e07780c6304a054f64b88d0144dd648fa1f8081b4fe054c1f4aa978303de0d77dbe44af140b1c644c4e4c9efafbd1043aaa4f15e261a767393c878"
+
+[update]
+[update.modrinth]
+mod-id = "6rPhicfw"
+version = "dzlwCgSz"

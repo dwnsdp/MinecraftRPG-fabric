@@ -1,0 +1,14 @@
+name = "Creeper Overhaul"
+filename = "creeperoverhaul-2.0.9-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MI1LWe93/versions/JF5M63Wz/creeperoverhaul-2.0.9-fabric.jar"
+hash-format = "sha512"
+hash = "15b67f98ab0db597dc76ed810b67f0b603d6f42aae89d7053e87824c74c12fae1af5b720fd37d9539021eeda5bb70d5bbe6ed6a0b54a31c39b0a7a370a56efe5"
+
+[update]
+[update.modrinth]
+mod-id = "MI1LWe93"
+version = "JF5M63Wz"

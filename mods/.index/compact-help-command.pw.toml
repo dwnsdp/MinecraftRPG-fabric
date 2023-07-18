@@ -1,0 +1,14 @@
+name = "Compact Help Command"
+filename = "compacthelpcommand-1.19.2-2.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XdiGl7ZL/versions/1xks7svo/compacthelpcommand-1.19.2-2.3.jar"
+hash-format = "sha512"
+hash = "d31647a307258659098fc9411a9276ca7b394b2af8f0addfb127429b1c723ae2c152fa1e784743d202378d3d5297cdce59f88f0c2df82aebdd07a739ae7b1d34"
+
+[update]
+[update.modrinth]
+mod-id = "XdiGl7ZL"
+version = "1xks7svo"
